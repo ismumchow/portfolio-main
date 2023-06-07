@@ -68,7 +68,7 @@ const About = () => {
                       Address:
                     </span>
                     <span className="second inline-block">
-                     3318 12th Ave Brooklyn, NY 11218
+                    Brooklyn, NY 11218
                     </span>
                   </li>
                   <li className="mb-[8px] w-full float-left">
