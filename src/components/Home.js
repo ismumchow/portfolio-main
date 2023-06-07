@@ -35,10 +35,11 @@ const Home = () => {
           <span className="line inline-block w-[70px] h-[5px] bg-[#333] mb-[30px]" />
           <TypingAnimation />
           <div className="cavani_tm_button transition_link">
-            <a href="#contact" onClick={() => navChange("contact")}>
-              Get in Touch
-            </a>
+            <a href="https://github.com/ismumchow" onClick={() => navChange("contact")}>
+              Check out my Github
+            </a>    
           </div>
+          
         </div>
       </div>
     </SectionContainer>

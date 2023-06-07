@@ -35,13 +35,7 @@ const Index = () => {
           {/* /PORTFOLIO */}
           {/* SERVICE */}
           <Service />
-          {/* SERVICE */}
-          {/* NEWS */}
-          <News />
-          {/* NEWS */}
-          {/* CONTACT */}
-          <Contact />
-          {/* CONTACT */}
+    
         </div>
       </div>
     </Layout>
