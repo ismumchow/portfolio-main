@@ -117,16 +117,16 @@ const Portfolio = () => {
                       />
                       <div
                         className="main absolute inset-0 bg-no-repeat bg-cover bg-center"
-                        data-img-url="assets/img/portfolio/habitrak.png"
+                        data-img-url="assets/img/portfolio/breddit.png"
                       />
                       <div className="details">
                         <h3 className="text-[16px] mb-[2px] font-semibold">
-                          Habitrack
+                          Breddit
                         </h3>
                       </div>
                       <a
                         className="cavani_tm_full_link popup-youtube"
-                        href="https://www.habitrak.app/signin"
+                        href="https://www.breddit.app"
                       />
                     </div>
                   </div>
